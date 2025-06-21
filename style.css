@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.prose h1, .prose h2, .prose h3 {
+  color: #4f46e5; /* Tailwind indigo-600 */
+}
+
+.prose a {
+  color: #7c3aed; /* Tailwind violet-600 */
+  text-decoration: underline;
+}
